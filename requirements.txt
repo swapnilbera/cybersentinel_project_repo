@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+python-dateutil
+joblib
+# optional: geopandas, shapely if you do geolocation processing
